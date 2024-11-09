@@ -71,6 +71,11 @@ header, footer {
     text-align: center;
 }
 
+header h1 {
+  font-family: 'Lobster', cursive;
+  margin: 0;
+}
+
 header nav ul {
     list-style: none;
     display: flex;
